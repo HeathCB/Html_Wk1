@@ -7,9 +7,15 @@ Coding Steps:
 
 
   a.	At least 3 pages
+  
   b.	Links to navigate between all pages present on each page
+  
   c.	A list
+  
   d.	3 images
+  
   e.	2 different size headers
+  
   f.	A table
+  
   g.	A form
